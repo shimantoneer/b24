@@ -1,4 +1,4 @@
 <?php
-header("Location: https://stanfordhealthcare.org/medical-conditions/blood-heart-circulation/vascular-headaches-migraines.html");
+header("Location: http://www.davisdoorcompany.com/");
 die();
 ?>
